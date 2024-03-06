@@ -41,7 +41,7 @@ h1 {
 
 p {
   color: #747474;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.6;
   margin-bottom: 10px;
 }
@@ -86,9 +86,9 @@ footer {
 }
 
 #poem {
-  max-width: 80%;
+  max-width: 90%;
   margin: auto;
-  padding: 20px;
+  padding: 16px;
   background-color: #fff;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
